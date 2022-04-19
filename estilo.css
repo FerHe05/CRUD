@@ -1,0 +1,8 @@
+body{
+    background-image: url("imagem0.jpg");
+    background-attachment: fixed;
+    position: relative;
+    margin: 0%;
+    background-size: cover;
+}
+
